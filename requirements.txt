@@ -6,3 +6,5 @@ langchain
 langchain-experimental
 langchain-openai
 openai
+tabulate
+
